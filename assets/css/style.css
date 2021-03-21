@@ -88,6 +88,14 @@ img {
   margin-bottom: var(--mb-4);
   text-align: center;
 }
+.section-title-skills {
+  position: relative;
+  font-size: 1.2rem;
+  color: var(--first-color);
+  margin-top: var(--mb-2);
+  margin-bottom: var(--mb-4);
+  text-align: center;
+}
 .section-title::after {
   position: absolute;
   content: '';
